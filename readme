@@ -1,0 +1,7 @@
+Cruisenews.net was a website that was started in about 1998.  Initially it was a geocities hosted website which featured many links to other websites about sailing and cruising.  It was transferred to its own domain cruisenews.net in about 2000.  For many years it was a revenue generator through affiliates such as amazon and adsense.
+
+In about 2003 the pages were converted to php to allow for inclusion of advertising and logging, and to make changing the menu easy.  Shortly thereafter, the website links were put into a mysql database and the pages with large numbers of links were rewritten to make them dynamically generated with php/mysql.  An admin backend was created to add and delete links.  
+
+This site was entirely hand coded by the author with the aid of reference books.  Beginning PHP4 was the main php textbook, along with a number of html reference books.
+
+

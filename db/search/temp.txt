@@ -1,0 +1,232 @@
+
+
+	
+		
+		
+
+		Main Page - Practical PHP Programming
+		/**/
+		
+		
+		
+		
+		
+		
+		var skin = 'monobook';var stylepath = '/phpwiki/skins';
+		
+		
+		/**/
+		
+			
+
+	
+		
+	
+		
+				Main Page
+		
+			From Practical PHP Programming
+			
+									Jump to: navigation, search			
+			Welcome to the Practical PHP Programming wiki!
+We recently experienced some site downtime. Apologies about that; the bandwidth continues to go up, and it's now getting a bit expensive for me to run this out of my own pocket. If you're feeling generous, want to help fund my efforts to spread PHP, or if I've helped you learn PHP and you want to give a little back, you can donate money towards my running costs by clicking this PayPal button - even $5 is very welcome!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My original book has been online over two years, and in print as PHP in a Nutshell for one, so now I'm taking it a step further: all the content is available on this site as a wiki. Not only will this make it easier for me to keep the content up to date (as and when I have the time - no promises!), but it also means that you can make changes yourself.
+Before you get started, please note the following conditions:
+
+ This content is made available under a very specific licence: please see Project:Copyrights for more information. Please read this page if you wish to reuse this work or wish to contribute to it.
+
+ Only users with accounts may edit pages. I know this is a terrible chore, but I want to try to avoid malicious users destroying the content here and wasting people's time with reverts. So, please do sign up for your own account.
+
+ I live in Britain, and therefore write in UK English. That means "colour", "centre", "favourite", and so on. To be absolutely clear: my spellings are not US spellings, which means I end my words in -ise rather than -ize (eg "standardise"). Sometimes my wording confuses people, as is the case with the word "bracket" which in the UK is used for ( and ) symbols. (If you were wondering, [ and ] are "square brackets"). To avoid pointless fights, I ask you to leave these Anglicisms intact; please retain my original spellings. However, I am willing to make the concession to "parenthesis", so if you see any "bracket" or "brackets" referring to ( and )s, you're welcome to change it to "parenthesis" or "parentheses".
+
+ In order to save my poor little server melting, please don't use mass site downloaders to take the content en masse. By using the online version you're guaranteed to have the latest version.
+
+ If you wish to ask questions or post opinions about the text, use the individual discussion tab for each page (at the top, next to Edit). Alternatively, you can write your message on the Discussion page.
+
+ The content of this wiki must remain unbiased. Please do not post material, links or discussion about products produced by your company - this isn't the place for that sort of thing.
+
+ Please visit this link for more information on wiki editing and what formatting you can use. You'll note that I use &lt;pre&gt; for marking code blocks in the wiki, which means that any code that prints out &lt;pre&gt; or &lt;/pre&gt; should use HTML-encoded versions. Use the Show Preview button before making changes, just to be sure.
+
+ Finally, please play nicely! Bad language and behaviour is banned, and anyone breaking this simple rule may be banned too. That applies to all parts of this wiki, including the discussion areas.
+
+
+
+ Latest news 
+Thanks to all the people who voted for my book, Ubuntu Unleashed, in the Linux and Enterprise Open Source Readers' Choice awards. Thanks to your support, the book won the award for the best Linux book! The second edition is now available, updated to cover Feisty Fawn, and is already receiving some great reviews from the critics - check it out for yourself:
+
+
+
+
+ Table of Contents 
+Preface
+
+ Introducing PHP
+ Simple variables and operators
+ Functions
+ Arrays
+ Object-oriented programming
+ HTML forms
+ Working with files
+ Databases
+ Cookies and sessions
+ Multimedia
+ XML and XSLT
+ Output buffering
+ Java and COM
+ Networks
+ Miscellaneous topics
+ Security concerns
+ Performance
+ Writing PHP
+ Writing extensions
+ Alternative PHP uses
+ Practical PHP
+ Bringing it to a close
+ The future of PHP
+ Choosing an ISP
+ Glossary
+
+
+
+Further reading
+If this online book has been useful to you, there's an enhanced print version available from O'Reilly: PHP in a Nutshell. It contains all the best parts from this online version, as well as thousands of fixes from O'Reilly's team of technical editors. I've also co-authored four books on Linux that are packed with hints and tips for Apache, MySQL, PHP and dozens of other server-side tools that all Linux admins deal with every day - a worthwhile read if you're serious about your system administration!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can also do a quick price search on Amazon with this little box, and it donates a fraction of your purchase price to my running costs:
+
+
+
+
+
+Finally, Amazon claims its new "Omakase" adverts will magically find the books that Practical PHP Programming readers are most interested in. These are shown below - partly for your benefit, but mostly because I'm interested to see what it will choose!
+
+
+
+
+
+
+
+Retrieved from "http://hudzilla.org/phpwiki/index.php?title=Main_Page"
+						
+			
+		
+	
+		
+		
+	
+		Views
+		
+				 Article
+				 Discussion
+				 View source
+				 History
+		
+	
+	
+		Personal tools
+		
+			
+				Log in / create account
+			
+		
+	
+	
+		
+	
+	 if (window.isMSIE55) fixalpha(); 
+
+	
+		Search
+		
+			
+				
+				&nbsp;
+				
+			
+		
+	
+
+	
+
+
+
+
+
+		
+		Navigation
+		
+			
+				Main Page
+				Recent changes
+				Random page
+				Help
+				Donations
+			
+		
+	
+	
+	
+		Toolbox
+		
+			
+				What links here
+				Related changes
+Upload file
+Special pages
+				Printable version				Permanent link			
+		
+	
+
+
+
+
+_uacct = "UA-989708-3";
+urchinTracker();
+
+
+		
+			
+			
+				
+			
+				 This page was last modified 15:04, 4 December 2007.
+				This page has been accessed 260,575 times.
+				Privacy policy
+				About Practical PHP Programming
+				Disclaimers
+			
+		
+	 if (window.runOnloadHook) runOnloadHook();
+
+
+
